@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "first_name": "Alexa",
+    "last_name": "Habeshaw",
+    "email": "ahabeshaw0@soundcloud.com",
+    "gender": "Female",
+    "ip_address": "30.2.46.231"
+  },
+  {
+    "id": 2,
+    "first_name": "Whittaker",
+    "last_name": "Giacomozzo",
+    "email": "wgiacomozzo1@oakley.com",
+    "gender": "Male",
+    "ip_address": "179.32.128.119"
+  },
+  {
+    "id": 3,
+    "first_name": "Gerardo",
+    "last_name": "Beard",
+    "email": "gbeard2@aboutads.info",
+    "gender": "Male",
+    "ip_address": "71.188.82.89"
+  },
+  {
+    "id": 4,
+    "first_name": "Maximilianus",
+    "last_name": "Dudman",
+    "email": "mdudman3@reference.com",
+    "gender": "Male",
+    "ip_address": "90.48.46.124"
+  },
+  {
+    "id": 5,
+    "first_name": "Filmore",
+    "last_name": "Simants",
+    "email": "fsimants4@gizmodo.com",
+    "gender": "Male",
+    "ip_address": "50.189.186.11"
+  },
+  {
+    "id": 6,
+    "first_name": "Miguela",
+    "last_name": "Neller",
+    "email": "mneller5@europa.eu",
+    "gender": "Female",
+    "ip_address": "93.251.150.58"
+  },
+  {
+    "id": 7,
+    "first_name": "Erena",
+    "last_name": "Earwicker",
+    "email": "eearwicker6@arizona.edu",
+    "gender": "Female",
+    "ip_address": "66.145.106.87"
+  },
+  {
+    "id": 8,
+    "first_name": "Debby",
+    "last_name": "De Blase",
+    "email": "ddeblase7@dion.ne.jp",
+    "gender": "Female",
+    "ip_address": "163.121.92.62"
+  },
+  {
+    "id": 9,
+    "first_name": "Melissa",
+    "last_name": "Ambroziak",
+    "email": "mambroziak8@1688.com",
+    "gender": "Female",
+    "ip_address": "33.58.249.28"
+  },
+  {
+    "id": 10,
+    "first_name": "Korry",
+    "last_name": "Torrecilla",
+    "email": "ktorrecilla9@dailymail.co.uk",
+    "gender": "Female",
+    "ip_address": "29.82.54.209"
+  },
+  {
+    "first_name": "Pranav",
+    "last_name": "Rane",
+    "email": "pranavrane43@gmail.com",
+    "gender": "Male",
+    "ip_address": "132.202.88.210",
+    "id": 11
+  },
+  {
+    "id": 12,
+    "body": {
+      "first_name": "Pranav",
+      "last_name": "Rane",
+      "email": "pranavrane43@gmail.com",
+      "gender": "Male",
+      "ip_address": "132.202.88.210"
+    }
+  }
+]
